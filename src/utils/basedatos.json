@@ -1,0 +1,329 @@
+{
+  "equipos": [
+    {
+      "nombre_equipo": "Equipo Televentas",
+      "miembros": [
+        {
+          "nombre": "Laura Martínez",
+          "cedula": "1234567890",
+          "cargo": "Gerente de Ventas",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Carlos García",
+          "cedula": "2345678901",
+          "cargo": "Representante de Ventas",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Fernanda López",
+          "cedula": "3456789012",
+          "cargo": "Especialista en Marketing",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Roberto Gómez",
+          "cedula": "4567890123",
+          "cargo": "Ejecutivo de Cuentas",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Sandra Rodríguez",
+          "cedula": "5678901234",
+          "cargo": "Asistente de Ventas",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Diego Pérez",
+          "cedula": "6789012345",
+          "cargo": "Especialista en Publicidad",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Valentina Sánchez",
+          "cedula": "7890123456",
+          "cargo": "Analista de Mercado",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Jorge González",
+          "cedula": "8901234567",
+          "cargo": "Consultor Comercial",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Gabriela Díaz",
+          "cedula": "9012345678",
+          "cargo": "Coordinador de Ventas",
+          "equipo": "Equipo Televentas"
+        },
+        {
+          "nombre": "Alejandro Ramírez",
+          "cedula": "0123456789",
+          "cargo": "Director de Marketing",
+          "equipo": "Equipo Televentas"
+        }
+      ]
+    },
+    {
+      "nombre_equipo": "Equipo Canal asesores",
+      "miembros": [
+        {
+          "nombre": "María López",
+          "cedula": "2345678901",
+          "cargo": "Gerente de Cuentas",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Juan García",
+          "cedula": "3456789012",
+          "cargo": "Especialista en Clientes",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Sofía Rodríguez",
+          "cedula": "4567890123",
+          "cargo": "Coordinador de Mercadeo",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Andrés Gómez",
+          "cedula": "5678901234",
+          "cargo": "Ejecutivo de Desarrollo",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Carolina Martínez",
+          "cedula": "6789012345",
+          "cargo": "Asistente de Marketing",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Pedro Pérez",
+          "cedula": "7890123456",
+          "cargo": "Analista de Producto",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Camila Sánchez",
+          "cedula": "8901234567",
+          "cargo": "Consultor de Ventas",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Laura González",
+          "cedula": "9012345678",
+          "cargo": "Especialista en Negocios",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "José Díaz",
+          "cedula": "0123456789",
+          "cargo": "Director de Estrategia",
+          "equipo": "Equipo Canal asesores"
+        },
+        {
+          "nombre": "Valeria Ramírez",
+          "cedula": "1234567890",
+          "cargo": "Analista de Marketing",
+          "equipo": "Equipo Canal asesores"
+        }
+      ]
+    },
+    {
+      "nombre_equipo": "Equipo Salud en casa",
+      "miembros": [
+        {
+          "nombre": "María Martínez",
+          "cedula": "2345678901",
+          "cargo": "Médico General",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Carlos García",
+          "cedula": "3456789012",
+          "cargo": "Especialista en Urgencias",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Sofía López",
+          "cedula": "4567890123",
+          "cargo": "Médico Cardiólogo",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Andrea Gómez",
+          "cedula": "5678901234",
+          "cargo": "Médico Psiquiatra",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "David Rodríguez",
+          "cedula": "6789012345",
+          "cargo": "Médico Ginecólogo",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Fernanda Pérez",
+          "cedula": "7890123456",
+          "cargo": "Médico Pediatra",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Camilo Sánchez",
+          "cedula": "8901234567",
+          "cargo": "Enfermero",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Luisa González",
+          "cedula": "9012345678",
+          "cargo": "Asistente Médico",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Martín Díaz",
+          "cedula": "0123456789",
+          "cargo": "Paramédico",
+          "equipo": "Equipo Salud en casa"
+        },
+        {
+          "nombre": "Natalia Ramírez",
+          "cedula": "1234567890",
+          "cargo": "Técnico de Laboratorio",
+          "equipo": "Equipo Salud en casa"
+        }
+      ]
+    },
+    {
+      "nombre_equipo": "Equipo Salud Sura",
+      "miembros": [
+        {
+          "nombre": "Ana Martínez",
+          "cedula": "3456789012",
+          "cargo": "Médico General",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Juan García",
+          "cedula": "4567890123",
+          "cargo": "Especialista en Radiología",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Sofía Rodríguez",
+          "cedula": "5678901234",
+          "cargo": "Médico Traumatólogo",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Andrés Gómez",
+          "cedula": "6789012345",
+          "cargo": "Médico Dermatólogo",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Carolina Martínez",
+          "cedula": "7890123456",
+          "cargo": "Médico Oncólogo",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Pedro Pérez",
+          "cedula": "8901234567",
+          "cargo": "Médico Anestesiólogo",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Camilo Sánchez",
+          "cedula": "9012345678",
+          "cargo": "Enfermera Jefe",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Laura González",
+          "cedula": "0123456789",
+          "cargo": "Técnico de Radiología",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "José Díaz",
+          "cedula": "1234567890",
+          "cargo": "Paramédico",
+          "equipo": "Equipo Salud Sura"
+        },
+        {
+          "nombre": "Valeria Ramírez",
+          "cedula": "2345678901",
+          "cargo": "Asistente Médico",
+          "equipo": "Equipo Salud Sura"
+        }
+      ]
+    },
+    {
+      "nombre_equipo": "Equipo Planeación financiera",
+      "miembros": [
+        {
+          "nombre": "Luisa Martínez",
+          "cedula": "4567890123",
+          "cargo": "Gerente Administrativo",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Juan García",
+          "cedula": "5678901234",
+          "cargo": "Asistente de Gerencia",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Sofía Rodríguez",
+          "cedula": "6789012345",
+          "cargo": "Analista Financiero",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Andrés Gómez",
+          "cedula": "7890123456",
+          "cargo": "Secretario Ejecutivo",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Carolina Martínez",
+          "cedula": "8901234567",
+          "cargo": "Asistente de Recursos Humanos",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Pedro Pérez",
+          "cedula": "9012345678",
+          "cargo": "Coordinador Administrativo",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Camila Sánchez",
+          "cedula": "0123456789",
+          "cargo": "Especialista en Contabilidad",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Laura González",
+          "cedula": "1234567890",
+          "cargo": "Técnico en Gestión",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "José Díaz",
+          "cedula": "2345678901",
+          "cargo": "Analista de Procesos",
+          "equipo": "Equipo Planeación financiera"
+        },
+        {
+          "nombre": "Valeria Ramírez",
+          "cedula": "3456789012",
+          "cargo": "Director Administrativo",
+          "equipo": "Equipo Planeación financiera"
+        }
+      ]
+    }
+  ]
+}

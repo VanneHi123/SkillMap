@@ -1,0 +1,37 @@
+[
+  {
+    "nombreUsuario": "Laura Camila Hernández",
+    "documento": "1216721891",
+    "contraseña": "123"
+  },
+  {
+    "nombreUsuario": "Carlos Andrés Vélez",
+    "documento": "123456789",
+    "contraseña": "admin124"
+  },
+  {
+    "nombreUsuario": "Sofía Morales",
+    "documento": "123456789",
+    "contraseña": "admin125"
+  },
+  {
+    "nombreUsuario": "Miguel Ángel Torres",
+    "documento": "123456789",
+    "contraseña": "admin126"
+  },
+  {
+    "nombreUsuario": "Ana María Gómez",
+    "documento": "123456789",
+    "contraseña": "admin127"
+  },
+  {
+    "nombreUsuario": "Diego Fernando Ruiz",
+    "documento": "123456789",
+    "contraseña": "admin127"
+  },
+  {
+    "nombreUsuario": "Patricia Elena Salazar",
+    "documento": "123456789",
+    "contraseña": "admin128"
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "alternativas_aprendizaje": [
+    {
+      "nombre": "Cursos en línea",
+      "descripcion": "¡Descubre un mundo de conocimiento con nuestros cursos en línea! Únete a miles de estudiantes de todo el mundo y adquiere nuevas habilidades a tu propio ritmo. Desde desarrollo web hasta marketing digital, tenemos cursos para todos los intereses.",
+      "tipo": "Asincronico",
+      "tiempo": "40",
+      "competencias": [
+        "Autogestión",
+        "Trabajo en equipo",
+        "Orientación al logro"
+      ]
+    },
+    {
+      "nombre": "Tutorías personalizadas",
+      "descripcion": "¿Quieres alcanzar tu máximo potencial? Nuestras tutorías personalizadas te ofrecen la atención individualizada que necesitas para triunfar. Nuestros tutores expertos te guiarán paso a paso en tu camino hacia el éxito académico y profesional.",
+      "tipo": "Sincronico",
+      "tiempo": "10",
+      "competencias": [
+        "Orientación al logro",
+        "Comunicación efectiva",
+        "Pensamiento crítico"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje práctico",
+      "descripcion": "¡Sumérgete en el aprendizaje práctico y experimenta el conocimiento en acción! Nuestros proyectos prácticos te brindan la oportunidad de aplicar tus habilidades en situaciones del mundo real y ajustadas a tu contexto laboral",
+      "tipo": "Sincronico",
+      "tiempo": "60",
+      "competencias": [
+        "Resolución de problemas",
+        "Trabajo en equipo",
+        "Adaptabilidad"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje colaborativo",
+      "descripcion": "¡Únete a nuestra comunidad de aprendizaje colaborativo y alcanza nuevas alturas junto con tus compañeros! Trabaja en equipo para resolver desafíos emocionantes, comparte ideas innovadoras y desarrolla habilidades de liderazgo.",
+      "tipo": "Sincronico",
+      "tiempo": "30",
+      "competencias": [
+        "Trabajo en equipo",
+        "Comunicación efectiva",
+        "Pensamiento crítico"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje basado en juegos",
+      "descripcion": "¡Sumérgete en una experiencia de aprendizaje única y emocionante con nuestro enfoque basado en juegos! Desafía tu mente, desarrolla nuevas habilidades y compite con otros estudiantes en un ambiente divertido y estimulante.",
+      "tipo": "Sincronico",
+      "tiempo": "20",
+      "competencias": [
+        "Pensamiento estratégico",
+        "Trabajo en equipo",
+        "Resolución de problemas"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje experiencial",
+      "descripcion": "¡Embárcate en una aventura educativa inmersiva y transformadora con nuestro enfoque experiencial! Sumérgete en el mundo real, aprende haciendo y desarrolla habilidades prácticas que te prepararán para enfrentar cualquier desafío.",
+      "tipo": "Asincronico",
+      "tiempo": "50",
+      "competencias": [
+        "Resolución de problemas",
+        "Trabajo en equipo",
+        "Adaptabilidad"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje autodirigido",
+      "descripcion": "¡Toma las riendas de tu aprendizaje y alcanza tus metas con nuestro enfoque autodirigido! Diseña tu propio camino educativo, explora tus intereses y avanza a tu propio ritmo.",
+      "tipo": "Sincronico",
+      "tiempo": "45",
+      "competencias": [
+        "Autogestión",
+        "Pensamiento crítico",
+        "Orientación al logro"
+      ]
+    },
+    {
+      "nombre": "Aprendizaje en el lugar de trabajo",
+      "descripcion": "¡Aprovecha al máximo tu experiencia laboral y aprende mientras trabajas con nuestro enfoque en el lugar de trabajo! Obtén habilidades prácticas y conocimientos específicos.",
+      "tipo": "Asincronico",
+      "tiempo": "80",
+      "competencias": [
+        "Trabajo en equipo",
+        "Adaptabilidad",
+        "Orientación al logro"
+      ]
+    }
+  ]
+}
